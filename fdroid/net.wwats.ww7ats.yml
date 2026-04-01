@@ -1,0 +1,24 @@
+Categories:
+  - Multimedia
+License: Apache-2.0
+AuthorName: cpicoto
+SourceCode: https://github.com/cpicoto/ww7ats-oss
+IssueTracker: https://github.com/cpicoto/ww7ats-oss/issues
+
+AutoName: WW7ATS
+
+RepoType: git
+Repo: https://github.com/cpicoto/ww7ats-oss.git
+
+Builds:
+  - versionName: '1.5'
+    versionCode: 3
+    commit: v1.5
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.5'
+CurrentVersionCode: 3
