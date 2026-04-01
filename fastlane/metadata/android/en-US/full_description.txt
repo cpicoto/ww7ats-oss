@@ -1,0 +1,34 @@
+WW7ATS is a companion app for the WW7ATS Amateur Television (ATV) repeater system. Built for licensed ham radio operators, it lets you both stream live video to the ATV repeater and watch incoming ATV feeds — all from your Android device.
+
+<b>Stream Live Video</b>
+• Broadcast your camera feed via RTMP to the WW7ATS repeater
+• Adjustable stream quality (480p, 720p, 1080p)
+• Real-time camera preview with OpenGL rendering
+• Camera on/off toggle — stream a "Camera Off" overlay when not transmitting video
+
+<b>Watch ATV Feeds</b>
+• Built-in HLS player for watching the WW7ATS repeater output
+• Low-latency playback optimized for live video
+
+<b>Slideshow with Camera Picture-in-Picture</b>
+• Select up to 20 photos from your gallery
+• Auto-cycling slideshow with your camera feed composited as a small PiP window
+• Perfect for showing images while maintaining a live camera presence
+
+<b>Push-to-Talk (PTT)</b>
+• On-screen PTT button for transmitter control
+• Works with the WW7ATS repeater system
+
+<b>Morse Code CW ID</b>
+• Automatic Morse code station identification
+• Compliant with FCC Part 97 identification requirements
+
+<b>Settings</b>
+• Configurable RTMP server URL and stream key
+• HLS playback URL configuration
+• Callsign entry for CW ID
+• Stream quality selection
+
+This app is designed for use with the WW7ATS amateur television repeater system. A valid amateur radio license is required to transmit.
+
+73 de AD7NP

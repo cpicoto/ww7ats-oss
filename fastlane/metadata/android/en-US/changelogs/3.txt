@@ -1,0 +1,6 @@
+- RTMP streaming to ATV repeater
+- HLS live playback
+- Slideshow with camera PiP (OpenGL shader)
+- Push-to-Talk transmitter control
+- Morse code CW ID (FCC Part 97)
+- Encrypted stream key storage
