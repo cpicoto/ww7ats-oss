@@ -13,7 +13,7 @@ Repo: https://github.com/cpicoto/ww7ats-oss.git
 Builds:
   - versionName: '1.5'
     versionCode: 3
-    commit: v1.5
+    commit: d5b2b6843751552d7779cd5e2905d94c8e99dcea
     subdir: app
     gradle:
       - yes

@@ -37,3 +37,4 @@ captures/
 
 # External native build
 .cxx/
+.vscode/mcp.json
